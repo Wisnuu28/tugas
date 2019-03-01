@@ -1,0 +1,41 @@
+body {
+    background-image:-moz-linear-gradient(to left,aqua, blue);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    color: ivory;
+    margin-left: 25px; 
+}
+.imgBorder {
+    border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 stretch;
+}
+h4 {
+    font-display: Arial;
+    margin-bottom: 50px;
+}
+.p1 {
+    margin-bottom: 40px;
+}
+.p2 {
+    margin-bottom: 45px;
+}
+table {
+    border: thin solid black;
+}
+tr {
+    border: thin solid black;
+}
+td {
+    border: thin solid black;
+}
+.cookies{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.SiteImplementationandMaintenance {
+    margin-left: 25px;
+}
+.websitetesting {
+    margin-left: 25px;
+}
